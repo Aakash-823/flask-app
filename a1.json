@@ -1,0 +1,74 @@
+{
+  "songs": [
+    {
+      "title": "1904",
+      "artist": "The Tallest Man on Earth",
+      "year": "2012",
+      "web_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/songs/78-the-tallest-man-on-earth-1904",
+      "img_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/images/artists/TheTallestManOnEarth.jpg"
+    },
+    {
+      "title": "#40",
+      "artist": "Dave Matthews",
+      "year": "1999",
+      "web_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/songs/119-dave-matthews-40",
+      "img_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/images/artists/DaveMatthews.jpg"
+    },
+    {
+      "title": "40oz to Freedom",
+      "artist": "Sublime",
+      "year": "1996",
+      "web_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/songs/45-sublime-40oz-to-freedom",
+      "img_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/images/artists/Sublime.jpg"
+    },
+    {
+      "title": "#41",
+      "artist": "Dave Matthews",
+      "year": "1996",
+      "web_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/songs/46-dave-matthews-band-41",
+      "img_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/images/artists/DaveMatthews.jpg"
+    },
+    {
+      "title": "American Girl",
+      "artist": "Tom Petty",
+      "year": "1977",
+      "web_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/songs/86-tom-petty-american-girl",
+      "img_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/images/artists/TomPetty.jpg"
+    },
+    {
+      "title": "American Music",
+      "artist": "Violent Femmes",
+      "year": "1991",
+      "web_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/songs/123-violent-femmes-american-music",
+      "img_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/images/artists/ViolentFemmes.jpg"
+    },
+    {
+      "title": "American Pie",
+      "artist": "Don McLean",
+      "year": "1972",
+      "web_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/songs/132-don-mclean-american-pie",
+      "img_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/images/artists/DonMcLean.jpg"
+    },
+    {
+      "title": "And it Stoned Me",
+      "artist": "Van Morrison",
+      "year": "1970",
+      "web_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/songs/27-van-morrison-and-it-stoned-me",
+      "img_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/images/artists/VanMorrison.jpg"
+    },
+    {
+      "title": "A Sailor's Christmas",
+      "artist": "Jimmy Buffett",
+      "year": "1996",
+      "web_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/songs/11-jimmy-buffett-a-sailors-christmas",
+      "img_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/images/artists/JimmyBuffett.jpg"
+    },
+    {
+      "title": "Badfish",
+      "artist": "Sublime",
+      "year": "1996",
+      "web_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/songs/21-sublime-badfish",
+      "img_url": "https://raw.githubusercontent.com/davidpots/songnotes_cms/master/public/images/artists/Sublime.jpg"
+    }
+  ]
+}
