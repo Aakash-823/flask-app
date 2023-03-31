@@ -1,0 +1,5 @@
+[Thu Mar 16 14:39:17.961003 2023] [wsgi:error] [pid 614] [client 27.33.148.49:50491] Target WSGI script not found or unable to stat: /var/www/html/myapp/myapp.wsgi
+[Thu Mar 16 14:39:18.497509 2023] [wsgi:error] [pid 614] [client 27.33.148.49:50491] Target WSGI script not found or unable to stat: /var/www/html/myapp/myapp.wsgi, referer: http://ec2-3-228-4-112.compute-1.amazonaws.com/
+[Thu Mar 16 14:39:25.370637 2023] [wsgi:error] [pid 622] [client 27.33.148.49:50492] Target WSGI script not found or unable to stat: /var/www/html/myapp/myapp.wsgi
+[Thu Mar 16 14:39:34.784376 2023] [wsgi:error] [pid 615] [client 27.33.148.49:50498] Target WSGI script not found or unable to stat: /var/www/html/myapp/myapp.wsgi
+[Thu Mar 16 14:39:45.941021 2023] [wsgi:error] [pid 621] [client 27.33.148.49:50504] Target WSGI script not found or unable to stat: /var/www/html/myapp/myapp.wsgi
